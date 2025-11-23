@@ -1,8 +1,3 @@
-Here is the **single-block, copy-paste-ready README** exactly as you asked — no extra text, no explanation.
-Just copy it in **one click** 🔽
-
----
-
 # ✈️ Flight Price Prediction – Machine Learning Model
 
 ## 📌 Overview
