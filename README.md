@@ -92,9 +92,7 @@ The notebook includes:
 * Deploy model online
 * Improve accuracy with tuning
 
----
 
-## 📜 License
 
 MIT License
 
