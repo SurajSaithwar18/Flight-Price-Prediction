@@ -88,8 +88,3 @@ The notebook includes:
 * Improve accuracy with tuning
 
 
-
-MIT License
-
----
-
